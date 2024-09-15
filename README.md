@@ -1,3 +1,4 @@
 # GitHubMiniLesson
-Estamos experimentando con GitHub
+## Estamos experimentando con GitHub
+
 <img src="imagen.jpg" />
